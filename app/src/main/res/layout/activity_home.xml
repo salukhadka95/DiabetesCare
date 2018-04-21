@@ -93,7 +93,7 @@
                 android:layout_height="216dp"
                 android:padding="10dp"
                 android:text="Although diabetes has no cure, you can take steps to manage your diabetes and stay healthy.
-Sometimes people call diabetes “a touch of sugar” or “borderline diabetes.” These terms suggest that someone doesn’t really have diabetes or has a less serious case, but every case of diabetes is serious."
+Sometimes people call diabetes “a tttouch of sugar” or “borderline diabetes.” These terms suggest that someone doesn’t really have diabetes or has a less serious case, but every case of diabetes is serious."
                 android:textColor="#000036"
                 android:textSize="15dp" />
         </LinearLayout>
