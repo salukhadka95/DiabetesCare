@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मधुमेह हेरचाह</string>
+    <string name="action_settings">सेटिङ</string>
+    <string name="welcome">स्वागत छ</string>
+    <string name="intro">परिचय</string>
+    <string name="prevention">रोकथाम</string>
+    <string name="yoga">योग</string>
+    <string name="treatment">उपचार</string>
+    <string name="reminder">अनुस्मारक</string>
+    <string name="ok">ठिक छ</string>
+    <string name="alarm">अलार्म</string>
+</resources>
